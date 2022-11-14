@@ -1,5 +1,8 @@
-git branch
-Работа с ветками в репозитории
+﻿
+-git branch
+-Р Р°Р±РѕС‚Р° СЃ РІРµС‚РєР°РјРё РІ СЂРµРїРѕР·РёС‚РѕСЂРёРё
 git branch​— показывает список веток
 git branch branch-name​— создает новую ветку branch-name
 git branch -D branch-name​— удаляет ветку branch-name
+git checkout
+Переключается на другую ветку
